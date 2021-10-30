@@ -1,4 +1,4 @@
 # Project exclude paths
-/target/
-/reports/
+/target
+/reports
 /env/
