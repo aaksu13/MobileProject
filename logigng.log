@@ -1,0 +1,77 @@
+2021-10-30 11:30:10 INFO  BaseTest:29 - Uygulama Başlatıldı
+2021-10-30 11:30:13 INFO  SplashPage:14 - Uygulamanın Düzgün Bir Şekilde Açıldığı Kontrol Edildi
+2021-10-30 11:30:13 INFO  ShoppingPage:14 - Alışverişe Başla Seçeneğine Tıklandı
+2021-10-30 11:30:16 INFO  ShoppingPage:21 - Alışveriş Sayfası Açıldığı Doğrulandı
+2021-10-30 11:30:16 INFO  CategoryPage:12 - Kategori Sekmesine Tıklandı
+2021-10-30 11:30:18 INFO  CategoryPage:19 - Kategori Sekmesine Tıklandığı Doğrulandı
+2021-10-30 11:30:19 INFO  CategoryPage:25 - Kadın Kategorisine Tıklandı
+2021-10-30 11:30:19 INFO  CategoryPage:31 - Pantolon Seçeneğine Tıklandı
+2021-10-30 11:30:27 INFO  ProductPage:12 - Sayfa Aşağıya Kaydırıldı
+2021-10-30 11:30:27 INFO  ProductPage:18 - Rasgele Bir Ürün Seçildi
+2021-10-30 11:30:30 INFO  ProductDetailPage:14 - Ürün Detay Sayfasına Gidildiği Doğrulandı
+2021-10-30 11:30:31 INFO  ProductDetailPage:20 - Favorilere Ekle Butotuna Tıklandı
+2021-10-30 11:30:31 INFO  LoginPage:15 - Üye Giriş Sayfasının Açıldığı Doğrulandı
+2021-10-30 11:30:32 INFO  LoginPage:21 - E-posta Girişi Yapıldı
+2021-10-30 11:30:33 INFO  LoginPage:26 - Şifre Girişi Yapıldı
+2021-10-30 11:30:36 INFO  LoginPage:33 - Geçmiş Sekmelere Dönüş Sağlandı
+2021-10-30 11:30:37 INFO  ProductPage:18 - Rasgele Bir Ürün Seçildi
+2021-10-30 11:30:41 INFO  ProductDetailPage:32 - Sepete Ekle Butonuna Tıklandı
+2021-10-30 11:30:42 INFO  BaseTest:36 - Uygulama Sonlandırıldı
+2021-10-30 11:31:18 INFO  BaseTest:29 - Uygulama Başlatıldı
+2021-10-30 11:31:20 INFO  SplashPage:14 - Uygulamanın Düzgün Bir Şekilde Açıldığı Kontrol Edildi
+2021-10-30 11:31:20 INFO  ShoppingPage:14 - Alışverişe Başla Seçeneğine Tıklandı
+2021-10-30 11:31:23 INFO  ShoppingPage:21 - Alışveriş Sayfası Açıldığı Doğrulandı
+2021-10-30 11:31:23 INFO  CategoryPage:12 - Kategori Sekmesine Tıklandı
+2021-10-30 11:31:25 INFO  CategoryPage:19 - Kategori Sekmesine Tıklandığı Doğrulandı
+2021-10-30 11:31:25 INFO  CategoryPage:25 - Kadın Kategorisine Tıklandı
+2021-10-30 11:31:26 INFO  CategoryPage:31 - Pantolon Seçeneğine Tıklandı
+2021-10-30 11:31:33 INFO  ProductPage:12 - Sayfa Aşağıya Kaydırıldı
+2021-10-30 11:31:33 INFO  ProductPage:18 - Rasgele Bir Ürün Seçildi
+2021-10-30 11:31:36 INFO  ProductDetailPage:14 - Ürün Detay Sayfasına Gidildiği Doğrulandı
+2021-10-30 11:31:36 INFO  ProductDetailPage:20 - Favorilere Ekle Butotuna Tıklandı
+2021-10-30 11:31:37 INFO  LoginPage:15 - Üye Giriş Sayfasının Açıldığı Doğrulandı
+2021-10-30 11:31:38 INFO  LoginPage:21 - E-posta Girişi Yapıldı
+2021-10-30 11:31:39 INFO  LoginPage:26 - Şifre Girişi Yapıldı
+2021-10-30 11:31:41 INFO  LoginPage:33 - Geçmiş Sekmelere Dönüş Sağlandı
+2021-10-30 11:31:42 INFO  ProductPage:18 - Rasgele Bir Ürün Seçildi
+2021-10-30 11:31:45 INFO  ProductDetailPage:32 - Sepete Ekle Butonuna Tıklandı
+2021-10-30 11:31:45 INFO  BaseTest:36 - Uygulama Sonlandırıldı
+2021-10-30 11:33:13 INFO  BaseTest:29 - Uygulama Başlatıldı
+2021-10-30 11:33:15 INFO  SplashPage:14 - Uygulamanın Düzgün Bir Şekilde Açıldığı Kontrol Edildi
+2021-10-30 11:33:15 INFO  ShoppingPage:14 - Alışverişe Başla Seçeneğine Tıklandı
+2021-10-30 11:33:18 INFO  ShoppingPage:21 - Alışveriş Sayfası Açıldığı Doğrulandı
+2021-10-30 11:33:18 INFO  CategoryPage:12 - Kategori Sekmesine Tıklandı
+2021-10-30 11:33:20 INFO  CategoryPage:19 - Kategori Sekmesine Tıklandığı Doğrulandı
+2021-10-30 11:33:20 INFO  CategoryPage:25 - Kadın Kategorisine Tıklandı
+2021-10-30 11:33:21 INFO  CategoryPage:31 - Pantolon Seçeneğine Tıklandı
+2021-10-30 11:33:28 INFO  ProductPage:12 - Sayfa Aşağıya Kaydırıldı
+2021-10-30 11:33:29 INFO  ProductPage:18 - Rasgele Bir Ürün Seçildi
+2021-10-30 11:33:31 INFO  ProductDetailPage:14 - Ürün Detay Sayfasına Gidildiği Doğrulandı
+2021-10-30 11:33:31 INFO  ProductDetailPage:20 - Favorilere Ekle Butotuna Tıklandı
+2021-10-30 11:33:32 INFO  LoginPage:15 - Üye Giriş Sayfasının Açıldığı Doğrulandı
+2021-10-30 11:33:33 INFO  LoginPage:21 - E-posta Girişi Yapıldı
+2021-10-30 11:33:34 INFO  LoginPage:26 - Şifre Girişi Yapıldı
+2021-10-30 11:33:36 INFO  LoginPage:33 - Geçmiş Sekmelere Dönüş Sağlandı
+2021-10-30 11:33:37 INFO  ProductPage:18 - Rasgele Bir Ürün Seçildi
+2021-10-30 11:33:42 INFO  ProductDetailPage:32 - Sepete Ekle Butonuna Tıklandı
+2021-10-30 11:33:42 INFO  BaseTest:36 - Uygulama Sonlandırıldı
+2021-10-30 11:33:42 INFO  BaseTest:37 - -----------------------------------------
+2021-10-30 11:40:29 INFO  BaseTest:29 - Uygulama Başlatıldı
+2021-10-30 11:40:37 INFO  SplashPage:14 - Uygulamanın Düzgün Bir Şekilde Açıldığı Kontrol Edildi
+2021-10-30 11:40:37 INFO  ShoppingPage:14 - Alışverişe Başla Seçeneğine Tıklandı
+2021-10-30 11:40:40 INFO  ShoppingPage:21 - Alışveriş Sayfası Açıldığı Doğrulandı
+2021-10-30 11:40:41 INFO  CategoryPage:12 - Kategori Sekmesine Tıklandı
+2021-10-30 11:40:44 INFO  CategoryPage:19 - Kategori Sekmesine Tıklandığı Doğrulandı
+2021-10-30 11:40:44 INFO  CategoryPage:25 - Kadın Kategorisine Tıklandı
+2021-10-30 11:40:46 INFO  CategoryPage:31 - Pantolon Seçeneğine Tıklandı
+2021-10-30 11:40:52 INFO  ProductPage:12 - Sayfa Aşağıya Kaydırıldı
+2021-10-30 11:40:53 INFO  ProductPage:18 - Rasgele Bir Ürün Seçildi
+2021-10-30 11:40:55 INFO  ProductDetailPage:14 - Ürün Detay Sayfasına Gidildiği Doğrulandı
+2021-10-30 11:40:55 INFO  ProductDetailPage:20 - Favorilere Ekle Butotuna Tıklandı
+2021-10-30 11:40:56 INFO  LoginPage:15 - Üye Giriş Sayfasının Açıldığı Doğrulandı
+2021-10-30 11:40:57 INFO  LoginPage:21 - E-posta Girişi Yapıldı
+2021-10-30 11:40:58 INFO  LoginPage:26 - Şifre Girişi Yapıldı
+2021-10-30 11:41:00 INFO  LoginPage:33 - Geçmiş Sekmelere Dönüş Sağlandı
+2021-10-30 11:41:01 INFO  ProductPage:18 - Rasgele Bir Ürün Seçildi
+2021-10-30 11:41:06 INFO  ProductDetailPage:32 - Sepete Ekle Butonuna Tıklandı
+2021-10-30 11:41:06 INFO  BaseTest:36 - Uygulama Sonlandırıldı

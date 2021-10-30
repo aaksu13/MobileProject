@@ -1,0 +1,746 @@
+26-10-2021 22:49:06.975 [Gauge] [INFO] Watching directory: C:\Users\testinium\IdeaProjects\MobileProject\specs
+26-10-2021 22:49:06.979 [Gauge] [DEBUG] Found 1 files
+26-10-2021 22:49:06.981 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+26-10-2021 22:49:06.993 [Gauge] [INFO] Initializing specs cache with 1 specs
+26-10-2021 22:49:06.993 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+26-10-2021 22:49:06.993 [Gauge] [INFO] Initializing steps cache with 1 steps
+26-10-2021 22:49:06.993 [Gauge] [INFO] Gauge daemon initialized and listening on port: 65466
+26-10-2021 22:56:46.753 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+26-10-2021 22:56:46.757 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+26-10-2021 22:56:46.758 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+26-10-2021 22:56:46.766 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+26-10-2021 22:56:46.766 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+26-10-2021 22:56:46.766 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+26-10-2021 23:24:21.595 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+26-10-2021 23:24:21.674 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+26-10-2021 23:30:35.665 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+26-10-2021 23:30:35.682 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+26-10-2021 23:30:44.271 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+26-10-2021 23:30:44.272 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+26-10-2021 23:30:45.163 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"\"" > 
+26-10-2021 23:30:45.163 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}" parameterizedStepValue:"<>" parameters:"" > > 
+26-10-2021 23:30:46.366 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"" > 
+26-10-2021 23:30:46.367 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}" parameterizedStepValue:"<3>" parameters:"3" > > 
+26-10-2021 23:30:48.453 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" s" > 
+26-10-2021 23:30:48.453 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} s" parameterizedStepValue:"<3> s" parameters:"3" > > 
+26-10-2021 23:30:48.467 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+26-10-2021 23:30:48.487 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<> 
+26-10-2021 23:30:48.493 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+26-10-2021 23:30:48.494 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+26-10-2021 23:30:52.688 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"<time> \"saniye bekle" > 
+26-10-2021 23:30:52.688 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}saniye bekle" parameterizedStepValue:"<<time> >saniye bekle" parameters:"<time> " > > 
+26-10-2021 23:30:55.954 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"<time>\"saniye bekle" > 
+26-10-2021 23:30:55.954 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}saniye bekle" parameterizedStepValue:"<<time>>saniye bekle" parameters:"<time>" > > 
+26-10-2021 23:30:56.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"<time\"saniye bekle" > 
+26-10-2021 23:30:56.193 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}saniye bekle" parameterizedStepValue:"<<time>saniye bekle" parameters:"<time" > > 
+26-10-2021 23:30:56.400 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"<tim\"saniye bekle" > 
+26-10-2021 23:30:56.400 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}saniye bekle" parameterizedStepValue:"<<tim>saniye bekle" parameters:"<tim" > > 
+26-10-2021 23:30:56.575 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"<ti\"saniye bekle" > 
+26-10-2021 23:30:56.575 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}saniye bekle" parameterizedStepValue:"<<ti>saniye bekle" parameters:"<ti" > > 
+26-10-2021 23:30:56.783 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"<t\"saniye bekle" > 
+26-10-2021 23:30:56.783 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}saniye bekle" parameterizedStepValue:"<<t>saniye bekle" parameters:"<t" > > 
+26-10-2021 23:30:57.063 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"<\"saniye bekle" > 
+26-10-2021 23:30:57.063 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}saniye bekle" parameterizedStepValue:"<<>saniye bekle" parameters:"<" > > 
+26-10-2021 23:30:57.391 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"\"saniye bekle" > 
+26-10-2021 23:30:57.391 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}saniye bekle" parameterizedStepValue:"<>saniye bekle" parameters:"" > > 
+26-10-2021 23:30:58.258 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\"saniye bekle" > 
+26-10-2021 23:30:58.258 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}saniye bekle" parameterizedStepValue:"<3>saniye bekle" parameters:"3" > > 
+26-10-2021 23:31:04.514 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+26-10-2021 23:31:04.515 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+27-10-2021 00:13:18.109 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-10-2021 00:13:18.110 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-10-2021 00:13:18.115 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-10-2021 00:13:18.115 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-10-2021 00:13:18.117 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-10-2021 00:13:18.117 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-10-2021 00:13:19.548 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uy" > 
+27-10-2021 00:13:19.548 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uy" parameterizedStepValue:"Uy" > > 
+27-10-2021 00:13:22.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulama Kontrol" > 
+27-10-2021 00:13:22.177 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > > 
+27-10-2021 00:13:31.753 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-10-2021 00:13:31.753 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-10-2021 00:13:31.759 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-10-2021 00:13:31.759 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-10-2021 00:13:31.760 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-10-2021 00:13:31.760 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-10-2021 00:13:34.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Al\304\261\305\237v" > 
+27-10-2021 00:13:34.462 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Al\304\261\305\237v" parameterizedStepValue:"Al\304\261\305\237v" > > 
+27-10-2021 00:13:36.380 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Al\304\261\305\237veri\305\237e B" > 
+27-10-2021 00:13:36.380 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Al\304\261\305\237veri\305\237e B" parameterizedStepValue:"Al\304\261\305\237veri\305\237e B" > > 
+27-10-2021 00:13:37.325 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Al\304\261\305\237veri\305\237e Ba\305\237la" > 
+27-10-2021 00:13:37.325 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > > 
+27-10-2021 00:13:47.150 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-10-2021 00:13:47.151 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-10-2021 00:13:48.271 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"U" > 
+27-10-2021 00:13:48.271 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"U" parameterizedStepValue:"U" > > 
+27-10-2021 00:13:48.281 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+27-10-2021 00:13:48.282 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"{} saniye bekle" parameterizedStepValue:"<3> saniye bekle" parameters:"3" > > 
+27-10-2021 00:13:48.282 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+27-10-2021 00:13:48.282 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+27-10-2021 00:13:50.048 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+27-10-2021 00:13:50.067 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+27-10-2021 00:13:52.427 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-10-2021 00:13:52.427 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-10-2021 00:13:52.687 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A" > 
+27-10-2021 00:13:52.687 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A" parameterizedStepValue:"A" > > 
+27-10-2021 00:13:52.693 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+27-10-2021 00:13:52.693 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > > 
+27-10-2021 00:13:52.693 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+27-10-2021 00:13:52.693 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+27-10-2021 00:14:11.528 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+27-10-2021 00:14:11.531 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+27-10-2021 11:46:49.113 [Gauge] [INFO] Watching directory: C:\Users\testinium\IdeaProjects\MobileProject\specs
+27-10-2021 11:46:49.115 [Gauge] [DEBUG] Found 1 files
+27-10-2021 11:46:49.119 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+27-10-2021 11:46:49.131 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+27-10-2021 11:46:49.134 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-10-2021 11:46:49.134 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+27-10-2021 11:46:49.134 [Gauge] [INFO] Initializing steps cache with 1 steps
+27-10-2021 11:46:49.134 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59908
+29-10-2021 12:33:06.421 [Gauge] [INFO] Watching directory: C:\Users\testinium\IdeaProjects\MobileProject\specs
+29-10-2021 12:33:06.422 [Gauge] [DEBUG] Found 1 files
+29-10-2021 12:33:06.427 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-10-2021 12:33:06.439 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 12:33:06.443 [Gauge] [INFO] Initializing specs cache with 1 specs
+29-10-2021 12:33:06.443 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 12:33:06.443 [Gauge] [INFO] Initializing steps cache with 1 steps
+29-10-2021 12:33:06.443 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50067
+29-10-2021 12:33:18.772 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulama Kontrol" > 
+29-10-2021 12:33:18.773 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > > 
+29-10-2021 12:33:18.892 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Al\304\261\305\237veri\305\237e Ba\305\237la" > 
+29-10-2021 12:33:18.893 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > > 
+29-10-2021 13:12:06.287 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > 
+29-10-2021 13:12:06.290 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > > 
+29-10-2021 13:13:41.872 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 13:13:41.892 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 13:13:42.965 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 13:13:42.965 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 13:13:43.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"a" > 
+29-10-2021 13:13:43.177 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"a" parameterizedStepValue:"a" > > 
+29-10-2021 13:13:43.227 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 13:13:43.228 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > > 
+29-10-2021 13:13:43.239 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 13:13:43.240 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 13:13:44.037 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 13:13:44.038 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 13:13:44.314 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A" > 
+29-10-2021 13:13:44.314 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A" parameterizedStepValue:"A" > > 
+29-10-2021 13:13:44.356 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 13:13:44.356 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > > 
+29-10-2021 13:13:44.357 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 13:13:44.358 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 13:13:49.627 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 13:13:49.637 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 13:26:54.609 [Gauge] [INFO] Watching directory: C:\Users\testinium\IdeaProjects\MobileProject\specs
+29-10-2021 13:26:54.610 [Gauge] [DEBUG] Found 1 files
+29-10-2021 13:26:54.613 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+29-10-2021 13:26:54.614 [Gauge] [INFO] Initializing specs cache with 1 specs
+29-10-2021 13:26:54.614 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 13:26:54.614 [Gauge] [INFO] Initializing steps cache with 1 steps
+29-10-2021 13:26:54.614 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52444
+29-10-2021 14:47:04.098 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 15:11:27.210 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagori Sekmesi" > 
+29-10-2021 15:11:27.210 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > > 
+29-10-2021 15:12:50.068 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 15:12:50.080 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 15:12:52.028 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 15:12:52.029 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 15:12:52.058 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"K" > 
+29-10-2021 15:12:52.058 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"K" parameterizedStepValue:"K" > > 
+29-10-2021 15:12:52.065 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 15:12:52.066 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > > 
+29-10-2021 15:12:52.066 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 15:12:52.066 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 15:12:52.629 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ka" > 
+29-10-2021 15:12:52.629 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ka" parameterizedStepValue:"Ka" > > 
+29-10-2021 15:12:59.398 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 15:12:59.399 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 15:22:18.065 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kategori Sekmesi Kontrol" > 
+29-10-2021 15:22:18.068 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > > 
+29-10-2021 15:27:06.216 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 15:27:06.226 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 15:27:07.162 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 15:27:07.163 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 15:27:07.428 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 15:27:07.428 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > > 
+29-10-2021 15:27:07.429 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 15:27:07.429 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 15:27:11.743 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 15:27:11.745 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 16:09:55.934 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kad\304\261n Kategorisi" > 
+29-10-2021 16:09:55.940 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > > 
+29-10-2021 16:12:21.572 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"P Kategorisi" > 
+29-10-2021 16:12:21.573 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"P Kategorisi" parameterizedStepValue:"P Kategorisi" > > 
+29-10-2021 16:12:23.092 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Pandolo Kategorisi" > 
+29-10-2021 16:12:23.092 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Pandolo Kategorisi" parameterizedStepValue:"Pandolo Kategorisi" > > 
+29-10-2021 16:12:24.186 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Pand Kategorisi" > 
+29-10-2021 16:12:24.186 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Pand Kategorisi" parameterizedStepValue:"Pand Kategorisi" > > 
+29-10-2021 16:12:24.827 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Pan Kategorisi" > 
+29-10-2021 16:12:24.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Pan Kategorisi" parameterizedStepValue:"Pan Kategorisi" > > 
+29-10-2021 16:12:43.555 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Pantalon Kategorisi" > 
+29-10-2021 16:12:43.555 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Pantalon Kategorisi" parameterizedStepValue:"Pantalon Kategorisi" > > 
+29-10-2021 16:14:29.650 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Pantolon Kategorisi" > 
+29-10-2021 16:14:29.651 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > > 
+29-10-2021 16:14:36.416 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 16:14:36.431 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 16:14:37.681 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 16:14:37.681 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 16:14:39.952 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"P" > 
+29-10-2021 16:14:39.952 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"P" parameterizedStepValue:"P" > > 
+29-10-2021 16:14:40.005 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 16:14:40.005 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > > 
+29-10-2021 16:14:40.006 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 16:14:40.006 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 16:14:42.034 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 16:14:42.034 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 16:14:42.345 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"k" > 
+29-10-2021 16:14:42.345 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"k" parameterizedStepValue:"k" > > 
+29-10-2021 16:14:42.356 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 16:14:42.356 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > > 
+29-10-2021 16:14:42.357 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 16:14:42.357 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 16:14:43.956 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"kA" > 
+29-10-2021 16:14:43.956 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"kA" parameterizedStepValue:"kA" > > 
+29-10-2021 16:14:46.421 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 16:14:46.430 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 16:14:48.621 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 16:14:48.622 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 16:14:48.634 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"p" > 
+29-10-2021 16:14:48.634 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"p" parameterizedStepValue:"p" > > 
+29-10-2021 16:14:48.639 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 16:14:48.664 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > > 
+29-10-2021 16:14:48.667 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 16:14:48.667 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 16:15:12.077 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 16:15:12.086 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 17:30:13.409 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 18:12:28.720 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A\305\237a\304\237\304\261 Kayd\304\261r" > 
+29-10-2021 18:12:28.723 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > > 
+29-10-2021 18:14:09.061 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 18:14:09.079 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 18:14:10.958 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"S" > 
+29-10-2021 18:14:10.958 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"S" parameterizedStepValue:"S" > > 
+29-10-2021 18:14:10.994 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 18:14:10.995 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > > 
+29-10-2021 18:14:10.996 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 18:14:10.996 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 18:14:12.774 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 18:14:12.774 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 18:14:13.006 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"s" > 
+29-10-2021 18:14:13.007 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"s" parameterizedStepValue:"s" > > 
+29-10-2021 18:14:13.024 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 18:14:13.025 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > > 
+29-10-2021 18:14:13.026 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 18:14:13.026 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 18:14:15.029 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 18:14:15.029 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 18:14:15.764 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 18:14:15.764 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > > 
+29-10-2021 18:14:15.765 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 18:14:15.765 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 18:14:22.622 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 18:14:22.634 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 18:14:24.063 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 18:14:24.063 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > > 
+29-10-2021 18:14:24.063 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 18:14:24.063 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 18:14:30.160 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 18:14:30.179 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 18:40:48.917 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 18:40:48.936 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 19:22:59.949 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rasgele \303\234r\303\274n Se\303\247me" > 
+29-10-2021 19:22:59.951 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > > 
+29-10-2021 19:53:21.778 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 19:53:21.808 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 19:53:21.809 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 19:53:23.232 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"r" > 
+29-10-2021 19:53:23.232 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"r" parameterizedStepValue:"r" > > 
+29-10-2021 19:53:23.281 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 19:53:23.282 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > > 
+29-10-2021 19:53:23.283 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 19:53:23.283 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 19:53:24.517 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"R" > 
+29-10-2021 19:53:24.536 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"R" parameterizedStepValue:"R" > > 
+29-10-2021 19:53:24.563 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 19:53:24.563 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > > 
+29-10-2021 19:53:24.564 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 19:53:24.565 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 19:53:25.071 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ra" > 
+29-10-2021 19:53:25.071 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ra" parameterizedStepValue:"Ra" > > 
+29-10-2021 19:53:29.306 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 19:53:29.326 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 22:37:48.888 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274n Detay Kontrol" > 
+29-10-2021 22:37:48.890 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > > 
+29-10-2021 22:53:59.290 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 22:53:59.321 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 22:53:59.322 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 22:54:00.980 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 22:54:00.980 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 22:54:01.000 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234" > 
+29-10-2021 22:54:01.000 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234" parameterizedStepValue:"\303\234" > > 
+29-10-2021 22:54:01.011 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 22:54:01.011 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > > 
+29-10-2021 22:54:01.012 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 22:54:01.012 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 22:54:07.590 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 22:54:07.603 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 22:57:29.057 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274n\303\274 Favoriye Ekle" > 
+29-10-2021 22:57:29.058 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > > 
+29-10-2021 22:58:01.570 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 22:58:01.580 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 22:58:03.353 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 22:58:03.353 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 22:58:03.751 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 22:58:03.751 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > > 
+29-10-2021 22:58:03.764 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 22:58:03.764 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 22:58:04.230 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r" > 
+29-10-2021 22:58:04.230 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r" parameterizedStepValue:"\303\234r" > > 
+29-10-2021 22:58:04.389 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274" > 
+29-10-2021 22:58:04.389 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274" parameterizedStepValue:"\303\234r\303\274" > > 
+29-10-2021 22:58:13.640 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 22:58:13.650 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:08:46.818 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login Sayfas\304\261 Kontrol" > 
+29-10-2021 23:08:46.819 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login Sayfas\304\261 Kontrol" parameterizedStepValue:"Login Sayfas\304\261 Kontrol" > > 
+29-10-2021 23:16:27.608 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:16:27.625 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:16:29.050 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:16:29.050 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:16:30.050 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"L" > 
+29-10-2021 23:16:30.052 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"L" parameterizedStepValue:"L" > > 
+29-10-2021 23:16:30.071 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 23:16:30.072 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > > 
+29-10-2021 23:16:30.072 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 23:16:30.072 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 23:16:32.236 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:16:32.236 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:16:33.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"G" > 
+29-10-2021 23:16:33.982 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"G" parameterizedStepValue:"G" > > 
+29-10-2021 23:16:33.997 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 23:16:33.997 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > > 
+29-10-2021 23:16:33.998 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 23:16:33.998 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 23:16:35.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:16:35.476 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:16:36.017 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 23:16:36.018 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > > 
+29-10-2021 23:16:36.018 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 23:16:36.018 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 23:16:37.089 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"LO" > 
+29-10-2021 23:16:37.089 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"LO" parameterizedStepValue:"LO" > > 
+29-10-2021 23:16:44.011 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"g Sayfas\304\261 Kontrol" > 
+29-10-2021 23:16:44.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"g Sayfas\304\261 Kontrol" parameterizedStepValue:"g Sayfas\304\261 Kontrol" > > 
+29-10-2021 23:16:44.617 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"g\304\260R Sayfas\304\261 Kontrol" > 
+29-10-2021 23:16:44.617 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"g\304\260R Sayfas\304\261 Kontrol" parameterizedStepValue:"g\304\260R Sayfas\304\261 Kontrol" > > 
+29-10-2021 23:16:45.312 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Sayfas\304\261 Kontrol" > 
+29-10-2021 23:16:45.312 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfas\304\261 Kontrol" parameterizedStepValue:"Sayfas\304\261 Kontrol" > > 
+29-10-2021 23:16:46.147 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234 Sayfas\304\261 Kontrol" > 
+29-10-2021 23:16:46.147 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234 Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234 Sayfas\304\261 Kontrol" > > 
+29-10-2021 23:16:47.810 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234ye G Sayfas\304\261 Kontrol" > 
+29-10-2021 23:16:47.812 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234ye G Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234ye G Sayfas\304\261 Kontrol" > > 
+29-10-2021 23:16:48.741 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > 
+29-10-2021 23:16:48.741 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > > 
+29-10-2021 23:16:53.005 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 23:16:53.005 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > > 
+29-10-2021 23:16:53.006 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 23:16:53.006 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 23:16:59.490 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:16:59.500 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:28:06.487 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullan\304\261c\304\261 E-posta Giri\305\237i" > 
+29-10-2021 23:28:06.488 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" > > 
+29-10-2021 23:29:02.179 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" > 
+29-10-2021 23:29:02.181 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" > > 
+29-10-2021 23:29:26.540 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:29:26.558 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:29:28.494 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:29:28.495 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:29:28.508 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\274" > 
+29-10-2021 23:29:28.508 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\274" parameterizedStepValue:"\303\274" > > 
+29-10-2021 23:29:28.516 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 23:29:28.516 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > > 
+29-10-2021 23:29:28.516 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 23:29:28.516 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 23:29:29.768 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:29:29.768 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:29:33.544 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:29:33.544 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:29:33.545 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:29:33.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:29:33.546 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:29:33.546 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:29:33.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:29:33.549 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:29:33.550 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:29:33.550 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:29:35.863 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 23:29:35.863 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > > 
+29-10-2021 23:29:35.863 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 23:29:35.863 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 23:29:36.068 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ku" > 
+29-10-2021 23:29:36.068 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ku" parameterizedStepValue:"Ku" > > 
+29-10-2021 23:29:36.372 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kul" > 
+29-10-2021 23:29:36.373 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kul" parameterizedStepValue:"Kul" > > 
+29-10-2021 23:29:37.737 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:29:37.753 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:29:39.337 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 23:29:39.337 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > > 
+29-10-2021 23:29:39.338 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 23:29:39.338 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 23:29:46.141 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:29:46.149 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:34:52.670 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Geri D\303\266n" > 
+29-10-2021 23:34:52.671 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Geri D\303\266n" parameterizedStepValue:"Geri D\303\266n" > > 
+29-10-2021 23:35:39.770 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:35:39.797 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:40:49.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:40:49.550 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:40:49.688 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 23:40:49.688 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > allSteps:<stepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > > 
+29-10-2021 23:40:49.688 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 23:40:49.688 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 23:40:50.118 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ge" > 
+29-10-2021 23:40:50.118 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ge" parameterizedStepValue:"Ge" > > 
+29-10-2021 23:40:50.257 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ger" > 
+29-10-2021 23:40:50.257 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ger" parameterizedStepValue:"Ger" > > 
+29-10-2021 23:40:50.322 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Geri" > 
+29-10-2021 23:40:50.322 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Geri" parameterizedStepValue:"Geri" > > 
+29-10-2021 23:40:56.364 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:40:56.376 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:41:54.201 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:41:54.209 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:41:56.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+29-10-2021 23:41:56.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+29-10-2021 23:41:57.844 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+29-10-2021 23:41:57.844 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > allSteps:<stepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" > allSteps:<stepValue:"Geri D\303\266n" parameterizedStepValue:"Geri D\303\266n" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > > 
+29-10-2021 23:41:57.845 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+29-10-2021 23:41:57.845 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+29-10-2021 23:42:14.478 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+29-10-2021 23:42:14.479 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+30-10-2021 00:06:51.960 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274n\303\274 Sepete Ekle" > 
+30-10-2021 00:06:51.964 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274n\303\274 Sepete Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Sepete Ekle" > > 
+30-10-2021 00:07:51.714 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+30-10-2021 00:07:51.730 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+30-10-2021 00:07:53.012 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+30-10-2021 00:07:53.014 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > allSteps:<stepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" > allSteps:<stepValue:"Geri D\303\266n" parameterizedStepValue:"Geri D\303\266n" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > > 
+30-10-2021 00:07:53.025 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+30-10-2021 00:07:53.025 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+30-10-2021 00:07:53.988 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+30-10-2021 00:07:53.988 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > allSteps:<stepValue:"Geri D\303\266n" parameterizedStepValue:"Geri D\303\266n" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" > > 
+30-10-2021 00:07:53.989 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+30-10-2021 00:07:53.989 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+30-10-2021 00:07:58.719 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+30-10-2021 00:07:58.728 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+30-10-2021 01:08:40.414 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+30-10-2021 10:49:07.735 [Gauge] [INFO] Watching directory: C:\Users\testinium\IdeaProjects\MobileProject\specs
+30-10-2021 10:49:07.740 [Gauge] [DEBUG] Found 1 files
+30-10-2021 10:49:07.741 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-10-2021 10:49:07.742 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+30-10-2021 10:49:07.745 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-10-2021 10:49:07.745 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+30-10-2021 10:49:07.745 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-10-2021 10:49:07.745 [Gauge] [INFO] Gauge daemon initialized and listening on port: 65116
+30-10-2021 10:56:11.188 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"A\305\237a\304\237\304\261 Kayd\304\261r" > 
+30-10-2021 10:56:11.188 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > > 
+30-10-2021 10:56:11.268 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > 
+30-10-2021 10:56:11.268 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > > 
+30-10-2021 10:56:11.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullan\304\261c\304\261 E-posta Giri\305\237i" > 
+30-10-2021 10:56:11.269 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" > > 
+30-10-2021 10:56:11.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" > 
+30-10-2021 10:56:11.269 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" > > 
+30-10-2021 10:56:11.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Geri D\303\266n" > 
+30-10-2021 10:56:11.269 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Geri D\303\266n" parameterizedStepValue:"Geri D\303\266n" > > 
+30-10-2021 10:56:11.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274n Detay Kontrol" > 
+30-10-2021 10:56:11.269 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > > 
+30-10-2021 10:56:11.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274n\303\274 Favoriye Ekle" > 
+30-10-2021 10:56:11.269 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > > 
+30-10-2021 10:56:11.270 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274n\303\274 Sepete Ekle" > 
+30-10-2021 10:56:11.270 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274n\303\274 Sepete Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Sepete Ekle" > > 
+30-10-2021 10:56:11.295 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Uygulama Kontrol" > 
+30-10-2021 10:56:11.295 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > > 
+30-10-2021 10:56:11.326 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Rasgele \303\234r\303\274n Se\303\247me" > 
+30-10-2021 10:56:11.326 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > > 
+30-10-2021 10:56:11.327 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Katagori Sekmesi" > 
+30-10-2021 10:56:11.327 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > > 
+30-10-2021 10:56:11.327 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kategori Sekmesi Kontrol" > 
+30-10-2021 10:56:11.327 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > > 
+30-10-2021 10:56:11.328 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Kad\304\261n Kategorisi" > 
+30-10-2021 10:56:11.328 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > > 
+30-10-2021 10:56:11.329 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Pantolon Kategorisi" > 
+30-10-2021 10:56:11.329 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > > 
+30-10-2021 10:56:11.330 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Al\304\261\305\237veri\305\237e Ba\305\237la" > 
+30-10-2021 10:56:11.330 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > > 
+30-10-2021 10:56:11.336 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > 
+30-10-2021 10:56:11.336 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > > 
+30-10-2021 11:20:17.407 [Gauge] [INFO] Spec file removed: C:\Users\testinium\IdeaProjects\MobileProject\specs\example.spec
+30-10-2021 11:20:17.412 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.spec
+30-10-2021 11:20:17.428 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.spec
+30-10-2021 11:35:59.587 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:35:59.602 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:35:59.614 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:36:00.025 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"step1" > 
+30-10-2021 11:36:00.026 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"step1" parameterizedStepValue:"step1" > > 
+30-10-2021 11:36:00.127 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Concept Heading" > 
+30-10-2021 11:36:00.127 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > > 
+30-10-2021 11:36:00.132 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"step2" > 
+30-10-2021 11:36:00.132 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+30-10-2021 11:36:06.389 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.389 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.397 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.397 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.446 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.446 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.446 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.446 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.447 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.447 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.489 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.490 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.490 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.490 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.491 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.491 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.522 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.522 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.522 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.522 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.523 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.523 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.589 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.589 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.697 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.698 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.779 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.779 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.780 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.780 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.842 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.842 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.843 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.843 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.843 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.843 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.893 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.893 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.893 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.893 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.894 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.894 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:06.933 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:06.933 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:09.224 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:09.224 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:09.228 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:09.228 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.395 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.395 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.410 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.410 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.439 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.439 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.439 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.439 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.440 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.468 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.468 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.469 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.469 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.469 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.469 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.500 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.500 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.501 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.547 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.547 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.812 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.812 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.814 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.814 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.862 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.862 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.862 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.862 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.862 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.862 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.916 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.916 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.916 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.916 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.916 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.917 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:10.954 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:10.954 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.206 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.206 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.208 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.208 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.249 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.249 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.250 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.250 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.250 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.250 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.278 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.278 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.280 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.281 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.282 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.282 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.311 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.311 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.311 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.313 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.314 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.314 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.342 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.342 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.823 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.823 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.823 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.823 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.879 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.879 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.879 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.879 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.879 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.879 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.907 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.907 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.908 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.908 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.908 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.908 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:11.955 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:11.955 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.145 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.147 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.147 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.206 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.206 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.206 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.206 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.207 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.207 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.243 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.243 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.244 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.244 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.245 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.245 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.279 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.279 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.279 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.279 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.279 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.279 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:12.357 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:12.357 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:13.419 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:13.419 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:13.421 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:13.421 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:13.470 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:13.470 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:13.471 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:13.471 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:13.471 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:13.471 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:13.499 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:13.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:13.500 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:13.501 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:13.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:13.501 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:13.535 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:13.535 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:29.498 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:36:29.500 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:1 Concept should have atleast one step => 'Concept Heading']
+30-10-2021 11:36:29.500 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:36:29.500 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:1 Concept should have atleast one step => 'Concept Heading']
+30-10-2021 11:36:32.247 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:32.247 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:36.569 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:36:36.579 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:2 Step should not be blank => '']
+30-10-2021 11:36:36.579 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:36:36.580 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:2 Step should not be blank => '']
+30-10-2021 11:36:44.590 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+30-10-2021 11:36:44.591 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+30-10-2021 11:36:44.823 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"S" > 
+30-10-2021 11:36:44.823 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"S" parameterizedStepValue:"S" > > 
+30-10-2021 11:36:44.848 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+30-10-2021 11:36:44.849 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"\303\234r\303\274n Detay Kontrol" parameterizedStepValue:"\303\234r\303\274n Detay Kontrol" > allSteps:<stepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 E-posta Giri\305\237i" > allSteps:<stepValue:"Kad\304\261n Kategorisi" parameterizedStepValue:"Kad\304\261n Kategorisi" > allSteps:<stepValue:"Katagori Sekmesi" parameterizedStepValue:"Katagori Sekmesi" > allSteps:<stepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"\303\234ye Giri\305\237 Sayfas\304\261 Kontrol" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Sepete Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Sepete Ekle" > allSteps:<stepValue:"Uygulama Kontrol" parameterizedStepValue:"Uygulama Kontrol" > allSteps:<stepValue:"Rasgele \303\234r\303\274n Se\303\247me" parameterizedStepValue:"Rasgele \303\234r\303\274n Se\303\247me" > allSteps:<stepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" parameterizedStepValue:"\303\234r\303\274n\303\274 Favoriye Ekle" > allSteps:<stepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" parameterizedStepValue:"Kullan\304\261c\304\261 \305\236ifre Giri\305\237i" > allSteps:<stepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" parameterizedStepValue:"Al\304\261\305\237veri\305\237e Ba\305\237la" > allSteps:<stepValue:"Kategori Sekmesi Kontrol" parameterizedStepValue:"Kategori Sekmesi Kontrol" > allSteps:<stepValue:"Pantolon Kategorisi" parameterizedStepValue:"Pantolon Kategorisi" > allSteps:<stepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" parameterizedStepValue:"A\305\237a\304\237\304\261 Kayd\304\261r" > allSteps:<stepValue:"Geri D\303\266n" parameterizedStepValue:"Geri D\303\266n" > allSteps:<> allSteps:<stepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" parameterizedStepValue:"Al\304\261\305\237veri\305\237 Sayfas\304\261 Kontrol" > > 
+30-10-2021 11:36:44.855 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+30-10-2021 11:36:44.855 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"C:\\Users\\testinium\\IdeaProjects\\MobileProject\\specs\\ozdilek.cpt" lineNumber:1 > > 
+30-10-2021 11:37:23.649 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:23.658 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:24.753 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:24.761 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:26.766 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:26.783 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:4 Concept should have atleast one step => '']
+30-10-2021 11:37:26.783 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:26.784 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:4 Concept should have atleast one step => '']
+30-10-2021 11:37:47.078 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:47.086 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:6 Concept should have atleast one step => '']
+30-10-2021 11:37:47.086 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:47.086 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:6 Concept should have atleast one step => '']
+30-10-2021 11:37:50.132 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:50.134 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:7 Concept should have atleast one step => '']
+30-10-2021 11:37:50.134 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:50.135 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:7 Concept should have atleast one step => '']
+30-10-2021 11:37:50.327 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:50.328 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:8 Concept should have atleast one step => '']
+30-10-2021 11:37:50.328 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:50.329 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:8 Concept should have atleast one step => '']
+30-10-2021 11:37:55.882 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:55.885 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:8 Concept should have atleast one step => '']
+30-10-2021 11:37:55.886 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:37:55.886 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:8 Concept should have atleast one step => '']
+30-10-2021 11:38:06.096 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:06.106 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:8 Concept should have atleast one step => 'Kategori']
+30-10-2021 11:38:06.106 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:06.107 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:8 Concept should have atleast one step => 'Kategori']
+30-10-2021 11:38:22.629 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:22.639 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:24.365 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:24.374 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:24.633 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:24.635 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:44.079 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:44.081 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:15 Concept should have atleast one step => '']
+30-10-2021 11:38:44.082 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:44.082 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:15 Concept should have atleast one step => '']
+30-10-2021 11:38:53.770 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:53.777 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:15 Concept should have atleast one step => 'Ürünler']
+30-10-2021 11:38:53.777 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:38:53.778 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:15 Concept should have atleast one step => 'Ürünler']
+30-10-2021 11:39:01.219 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:01.227 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:01.540 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:01.550 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:08.845 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:08.852 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:17 Concept should have atleast one step => 'Ürün Detay']
+30-10-2021 11:39:08.853 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:08.853 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:17 Concept should have atleast one step => 'Ürün Detay']
+30-10-2021 11:39:47.577 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:47.587 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:47.990 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:47.997 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:53.996 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:54.003 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:21 Concept should have atleast one step => 'Üye Girişi']
+30-10-2021 11:39:54.003 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:39:54.004 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt:21 Concept should have atleast one step => 'Üye Girişi']
+30-10-2021 11:40:04.811 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:40:04.818 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:40:12.811 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:40:12.818 [Gauge] [INFO] Concept file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:41:56.590 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.spec
+30-10-2021 11:41:56.598 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.spec
+30-10-2021 11:41:56.754 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.spec
+30-10-2021 11:41:56.762 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.spec
+30-10-2021 11:42:55.361 [Gauge] [INFO] Concept file removed: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.cpt
+30-10-2021 11:43:05.456 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.spec
+30-10-2021 11:43:05.457 [Gauge] [INFO] Spec file added / modified: C:\Users\testinium\IdeaProjects\MobileProject\specs\ozdilek.spec
